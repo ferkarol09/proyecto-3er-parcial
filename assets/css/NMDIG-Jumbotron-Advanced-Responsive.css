@@ -1,0 +1,35 @@
+section {
+  background-image: url("http://media.istockphoto.com/photos/mature-man-walking-dog-in-frosty-landscape-picture-id473423242?s=2048x2048");
+  background-repeat: no-repeat;
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  margin-left: auto;
+  margin-right: auto;
+  background-position: center center;
+  display: table;
+}
+
+.jumbotron {
+  background-color: transparent;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+#promo {
+}
+
+#promo {
+  text-align: center;
+  padding: 40px;
+  background: pexels-hikaique-48013.jpg;
+  background-size: cover;
+}
+
+#promo . jumbotron {
+  border-radius: 30px;
+  padding: 40px;
+  background-color: rgba(255, 255, 255,0.75);
+}
+
